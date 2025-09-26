@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,app.revanced.android.gms,谷歌商店
+  - PROCESS-NAME,com.android.vending,谷歌商店  
+  - DOMAIN-KEYWORD,play.google,谷歌商店
+  - DOMAIN-KEYWORD,google,谷歌商店

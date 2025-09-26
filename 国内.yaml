@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,www.zfyidc.com,国内
+  - IP-CIDR,156.239.235.110/32,国内
+  - DOMAIN-SUFFIX,shouji.sogou.com,国内
+  - DOMAIN-KEYWORD,dandanplay,国内
+  - DOMAIN-SUFFIX,api.dandanplay.net,国内
+  - DOMAIN-SUFFIX,www.123865.com,国内 
+  - DOMAIN-SUFFIX,yun.daxiaamu.com,国内     
+  - DOMAIN-KEYWORD,xxooo,国内
+  - DOMAIN-KEYWORD,wogg,国内
+  - DOMAIN-KEYWORD,lanzoub,国内

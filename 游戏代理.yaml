@@ -1,0 +1,10 @@
+payload:
+  - PROCESS-NAME,com.olzhas.carparking.multyplayer2,游戏软件代理
+  - PROCESS-NAME,com.jmbbs2025,游戏软件代理
+  - PROCESS-NAME,com.google.earth,游戏软件代理
+  - PROCESS-NAME,moe.tarsin.ehviewer,游戏软件代理
+  - PROCESS-NAME,com.ea.games.r3_row,游戏软件代理
+  - PROCESS-NAME,com.MadOut.BIG,游戏软件代理    
+  - PROCESS-NAME,com.tencent.ig,游戏软件代理
+  - PROCESS-NAME,com.carxtech.sr,游戏软件代理
+  - PROCESS-NAME,com.olzhas.carparking.multyplayer,游戏软件代理

@@ -1,0 +1,11 @@
+payload:
+  - PROCESS-NAME,com.google.android.youtube,全部节点
+  - PROCESS-NAME,app.rvx.android.youtube,全部节点
+  - DOMAIN-SUFFIX,missav.fans,全部节点
+  - DOMAIN-SUFFIX,91porn.com,全部节点
+  - DOMAIN-SUFFIX,hanime1.me,全部节点
+  - DOMAIN-KEYWORD,hembed,全部节点
+  - PROCESS-NAME,com.example.flutter_sf113,全部节点
+  - PROCESS-NAME,com.comic.bzmh202506251450788786666,全部节点
+  - DOMAIN-SUFFIX,18comic.vip,全部节点
+  

@@ -1,0 +1,5 @@
+payload: 
+  - PROCESS-NAME,ai.x.grok,AI
+  - PROCESS-NAME,com.openai.chatgpt,AI
+  - DOMAIN-KEYWORD,gemini,AI
+  - DOMAIN-SUFFIX,gemini.google.com,AI
