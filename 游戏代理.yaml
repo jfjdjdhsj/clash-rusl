@@ -7,3 +7,5 @@ payload:
   - PROCESS-NAME,com.tencent.ig,游戏软件代理
   - PROCESS-NAME,com.carxtech.sr,游戏软件代理
   - PROCESS-NAME,com.olzhas.carparking.multyplayer,游戏软件代理
+  - PROCESS-NAME,com.javdb.javrocket,游戏软件代理
+  - PROCESS-NAME,com.av.playground,游戏软件代理
