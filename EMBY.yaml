@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,emby,EMBY
+  - PROCESS-NAME,io.virtualapp.sandvxposed64,EMBY
   - IP-CIDR,193.122.114.13/32,EMBY
   - DOMAIN-SUFFIX,tv.worldline.space,EMBY
   - DOMAIN-SUFFIX,cf.sfcj.org,EMBY
