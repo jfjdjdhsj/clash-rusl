@@ -29,7 +29,16 @@ payload:
   - DOMAIN-SUFFIX,stream.synn.cc,EMBY
   - DOMAIN-SUFFIX,cf.5msky.com,EMBY
   - DOMAIN-SUFFIX,emby.feiniu.lol,EMBY
-  - DOMAIN-SUFFIX,ciallo.party,EMBY
   - DOMAIN-SUFFIX,dongman.theluyuan.com,EMBY
   - DOMAIN-SUFFIX,kfc.v50.su,EMBY
   - DOMAIN-SUFFIX,lite.cn2gias.uk,EMBY
+  - DOMAIN-SUFFIX,hka-emby.aliz.work,EMBY
+  - DOMAIN-SUFFIX,ch.feiyue.lol,EMBY
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com,EMBY
+  - DOMAIN-SUFFIX,jsq.vban.xyz,EMBY
+  - DOMAIN-SUFFIX,emby.jingzhe.pro,EMBY
+  - DOMAIN-SUFFIX,emby1.ucloudhost.top,EMBY
+  - DOMAIN-SUFFIX,emby.heisi.org,EMBY
+  - DOMAIN-SUFFIX,public.shrekmedia.org,EMBY
+  - DOMAIN-SUFFIX,playz.mjji.de,EMBY
+  - DOMAIN-SUFFIX,emos.lol,EMBY            
