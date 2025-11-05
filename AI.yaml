@@ -63,3 +63,4 @@ payload:
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,14061
   - IP-ASN,20473
+  - PROCESS-NAME,com.openai.sora,AI
