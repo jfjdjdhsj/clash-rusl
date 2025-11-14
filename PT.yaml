@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,koyso,PT下载
   - DOMAIN-SUFFIX,koyso.to,PT下载
+  - PROCESS-NAME,com.delphicoder.flud,PT下载
