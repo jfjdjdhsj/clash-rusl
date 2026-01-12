@@ -44,3 +44,5 @@ payload:
   - DOMAIN-SUFFIX,emos.lol,EMBY   
   - DOMAIN-SUFFIX,www.lilyemby.my,EMBY
   - DOMAIN-SUFFIX,link00.okemby.org,EMBY
+  - DOMAIN-SUFFIX,hanime1.me,EMBY
+  - DOMAIN-KEYWORD,hembed,EMBY
