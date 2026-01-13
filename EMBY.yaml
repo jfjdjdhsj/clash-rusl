@@ -46,3 +46,4 @@ payload:
   - DOMAIN-SUFFIX,link00.okemby.org,EMBY
   - DOMAIN-SUFFIX,hanime1.me,EMBY
   - DOMAIN-KEYWORD,hembed,EMBY
+  - DOMAIN-KEYWORD,missav,EMBY
