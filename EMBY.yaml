@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,hanime1.me,EMBY
   - DOMAIN-KEYWORD,hembed,EMBY
   - DOMAIN-KEYWORD,missav,EMBY
+  - PROCESS-NAME,com.gn4.bcx,EMBY
