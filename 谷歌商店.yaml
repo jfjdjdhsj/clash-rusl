@@ -1,6 +1,8 @@
 payload:
-  - PROCESS-NAME,app.revanced.android.gms,谷歌商店
-  - PROCESS-NAME,com.android.vending,谷歌商店  
-  - DOMAIN-KEYWORD,play.google,谷歌商店
-  - DOMAIN-KEYWORD,google,谷歌商店
-  - PROCESS-NAME,com.google.android.apps.photos,谷歌商店
+  - DOMAIN-SUFFIX,play.google.com,谷歌商店
+  - DOMAIN-SUFFIX,play.googleusercontent.com,谷歌商店
+  - DOMAIN-SUFFIX,googleusercontent.com,谷歌商店
+  - DOMAIN-SUFFIX,gstatic.com,谷歌商店
+  - DOMAIN-SUFFIX,googleapis.com,谷歌商店
+  - DOMAIN-KEYWORD,googleplay,谷歌商店
+  
