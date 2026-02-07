@@ -48,3 +48,7 @@ payload:
   - DOMAIN-KEYWORD,hembed,EMBY
   - DOMAIN-KEYWORD,missav,EMBY
   - PROCESS-NAME,com.gn4.bcx,EMBY
+  - DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net,EMBY
+  - DOMAIN-SUFFIX,nn.kakaxi.de5.net,EMBY
+  - DOMAIN-SUFFIX,nn.aabcc.dpdns.org,EMBY
+  - DOMAIN-SUFFIX,18comic.vip,EMBY
