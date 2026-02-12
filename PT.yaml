@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,koyso,PT下载
   - DOMAIN-SUFFIX,koyso.to,PT下载
+  - DOMAIN-SUFFIX,cdn1.trashbytes.to,PT下载
   - PROCESS-NAME,com.delphicoder.flud,PT下载
   - PROCESS-NAME,com.bitcomet.android,PT下载
   - PROCESS-NAME,com.epicgames.portal,PT下载
