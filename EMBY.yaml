@@ -55,3 +55,4 @@ payload:
   - DOMAIN-SUFFIX,wp.lyezi.cc,EMBY
   - DOMAIN-SUFFIX,v1.uhdnow.com,EMBY
   - DOMAIN-SUFFIX,global.uhdnow.com,EMBY
+  - DOMAIN-SUFFIX,my.microsoftpersonalcontent.com,EMBY
