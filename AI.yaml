@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,colab,AI
   - DOMAIN-KEYWORD,developerprofiles,AI
   - DOMAIN-KEYWORD,generativelanguage,AI
+  - DOMAIN-KEYWORD,grok,AI
   - DOMAIN,browser-intake-datadoghq.com,AI
   - DOMAIN,chat.openai.com.cdn.cloudflare.net,AI
   - DOMAIN,copilot.microsoft.com,AI
