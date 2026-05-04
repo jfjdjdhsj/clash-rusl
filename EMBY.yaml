@@ -57,3 +57,4 @@ payload:
   - DOMAIN-SUFFIX,global.uhdnow.com,EMBY
   - DOMAIN-SUFFIX,uhdnow.com,EMBY
   - DOMAIN-SUFFIX,my.microsoftpersonalcontent.com,EMBY
+  - DOMAIN-SUFFIX,lite.aabcc.dpdns.org,EMBY
