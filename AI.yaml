@@ -60,6 +60,8 @@ payload:
   - DOMAIN-SUFFIX,stripe.com,AI
   - DOMAIN-SUFFIX,turn.livekit.cloud,AI
   - DOMAIN-KEYWORD,openaicom-api,AI
+  - DOMAIN-KEYWORD,anthropic,AI
+  - DOMAIN-KEYWORD,claude.ai,AI
   - IP-CIDR,24.199.123.28/32,AI
   - IP-CIDR,64.23.132.171/32,AI
   - IP-ASN,14061,AI
