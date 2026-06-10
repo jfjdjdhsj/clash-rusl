@@ -32,7 +32,6 @@ payload:
   - DOMAIN,self.events.data.microsoft.com,AI
   - DOMAIN,services.bingapis.com,AI
   - DOMAIN,static.cloudflareinsights.com,AI
-  - DOMAIN,sydney.bing.com,AI
   - DOMAIN-SUFFIX,algolia.net,AI
   - DOMAIN-SUFFIX,api.microsoftapp.net,AI
   - DOMAIN-SUFFIX,auth0.com,AI
@@ -67,3 +66,4 @@ payload:
   - IP-ASN,14061,AI
   - IP-ASN,20473,AI
   - PROCESS-NAME,com.openai.sora,AI
+  - DOMAIN-SUFFIX,www.perplexity.ai,AI
