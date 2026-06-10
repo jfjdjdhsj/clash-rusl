@@ -1,11 +1,22 @@
 payload:
-  - PROCESS-NAME,com.olzhas.carparking.multyplayer2,游戏软件代理
-  - PROCESS-NAME,com.google.earth,游戏软件代理
-  - PROCESS-NAME,moe.tarsin.ehviewer,游戏软件代理
-  - PROCESS-NAME,com.ea.games.r3_row,游戏软件代理
-  - PROCESS-NAME,com.MadOut.BIG,游戏软件代理    
-  - PROCESS-NAME,com.tencent.ig,游戏软件代理
-  - PROCESS-NAME,com.carxtech.sr,游戏软件代理
-  - PROCESS-NAME,com.olzhas.carparking.multyplayer,游戏软件代理
-  - PROCESS-NAME,com.javdb.javrocket,游戏软件代理
-  - PROCESS-NAME,com.av.playground,游戏软件代理
+
+# Car Parking Multiplayer 2
+- PROCESS-NAME,com.olzhas.carparking.multyplayer2,游戏软件代理
+# Car Parking Multiplayer
+- PROCESS-NAME,com.olzhas.carparking.multyplayer,游戏软件代理
+# Real Racing 3
+- PROCESS-NAME,com.ea.games.r3_row,游戏软件代理
+# MadOut2 BigCityOnline
+- PROCESS-NAME,com.MadOut.BIG,游戏软件代理
+# PUBG
+- PROCESS-NAME,com.tencent.ig,游戏软件代理
+# CarX Street
+- PROCESS-NAME,com.carxtech.sr,游戏软件代理
+# Google Earth
+- PROCESS-NAME,com.google.earth,游戏软件代理
+# EHViewer
+- PROCESS-NAME,moe.tarsin.ehviewer,游戏软件代理
+# JAVDB Rocket
+- PROCESS-NAME,com.javdb.javrocket,游戏软件代理
+# AV Playground
+- PROCESS-NAME,com.av.playground,游戏软件代理
