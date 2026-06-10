@@ -1,80 +1,81 @@
 payload:
-# OpenAI
-- DOMAIN-SUFFIX,chatgpt.com,AI
-- DOMAIN-SUFFIX,openai.com,AI
-- DOMAIN-SUFFIX,oaistatic.com,AI
-- DOMAIN-SUFFIX,oaiusercontent.com,AI
 
-# Claude
-- DOMAIN-SUFFIX,claude.ai,AI
-- DOMAIN-KEYWORD,anthropic,AI
+  # OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com,AI
+  - DOMAIN-SUFFIX,openai.com,AI
+  - DOMAIN-SUFFIX,oaistatic.com,AI
+  - DOMAIN-SUFFIX,oaiusercontent.com,AI
 
-# Gemini
-- DOMAIN-SUFFIX,gemini.google.com,AI
-- DOMAIN-SUFFIX,bard.google.com,AI
-- DOMAIN-SUFFIX,deepmind.google,AI
-- DOMAIN-SUFFIX,deepmind.com,AI
-- DOMAIN,ai.google.dev,AI
-- DOMAIN,makersuite.google.com,AI
+  # Claude
+  - DOMAIN-SUFFIX,claude.ai,AI
+  - DOMAIN-KEYWORD,anthropic,AI
 
-# Grok
-- DOMAIN-SUFFIX,x.ai,AI
-- DOMAIN-KEYWORD,grok,AI
+  # Gemini
+  - DOMAIN-SUFFIX,gemini.google.com,AI
+  - DOMAIN-SUFFIX,bard.google.com,AI
+  - DOMAIN-SUFFIX,deepmind.google,AI
+  - DOMAIN-SUFFIX,deepmind.com,AI
+  - DOMAIN,ai.google.dev,AI
+  - DOMAIN,makersuite.google.com,AI
 
-# Perplexity
-- DOMAIN-SUFFIX,perplexity.ai,AI
+  # Grok
+  - DOMAIN-SUFFIX,x.ai,AI
+  - DOMAIN-KEYWORD,grok,AI
 
-# Poe
-- DOMAIN-SUFFIX,poe.com,AI
+  # Perplexity
+  - DOMAIN-SUFFIX,perplexity.ai,AI
 
-# Character AI
-- DOMAIN-SUFFIX,character.ai,AI
+  # Poe
+  - DOMAIN-SUFFIX,poe.com,AI
 
-# Midjourney
-- DOMAIN-SUFFIX,midjourney.com,AI
+  # Character AI
+  - DOMAIN-SUFFIX,character.ai,AI
 
-# Leonardo AI
-- DOMAIN-SUFFIX,leonardo.ai,AI
+  # Midjourney
+  - DOMAIN-SUFFIX,midjourney.com,AI
 
-# Ideogram
-- DOMAIN-SUFFIX,ideogram.ai,AI
+  # Leonardo AI
+  - DOMAIN-SUFFIX,leonardo.ai,AI
 
-# Runway
-- DOMAIN-SUFFIX,runwayml.com,AI
+  # Ideogram
+  - DOMAIN-SUFFIX,ideogram.ai,AI
 
-# Krea
-- DOMAIN-SUFFIX,krea.ai,AI
+  # Runway
+  - DOMAIN-SUFFIX,runwayml.com,AI
 
-# Stability AI
-- DOMAIN-SUFFIX,stability.ai,AI
+  # Krea
+  - DOMAIN-SUFFIX,krea.ai,AI
 
-# Hugging Face
-- DOMAIN-SUFFIX,huggingface.co,AI
+  # Stability AI
+  - DOMAIN-SUFFIX,stability.ai,AI
 
-# NotebookLM
-- DOMAIN-SUFFIX,notebooklm.google.com,AI
+  # Hugging Face
+  - DOMAIN-SUFFIX,huggingface.co,AI
 
-# Phind
-- DOMAIN-SUFFIX,phind.com,AI
+  # NotebookLM
+  - DOMAIN-SUFFIX,notebooklm.google.com,AI
 
-# You.com
-- DOMAIN-SUFFIX,you.com,AI
+  # Phind
+  - DOMAIN-SUFFIX,phind.com,AI
 
-# Mistral
-- DOMAIN-SUFFIX,mistral.ai,AI
+  # You.com
+  - DOMAIN-SUFFIX,you.com,AI
 
-# Cursor
-- DOMAIN-SUFFIX,cursor.com,AI
-- DOMAIN-SUFFIX,cursor.sh,AI
+  # Mistral
+  - DOMAIN-SUFFIX,mistral.ai,AI
 
-# Windsurf
-- DOMAIN-SUFFIX,windsurf.com,AI
+  # Cursor
+  - DOMAIN-SUFFIX,cursor.com,AI
+  - DOMAIN-SUFFIX,cursor.sh,AI
 
-# Bolt
-- DOMAIN-SUFFIX,bolt.new,AI
+  # Windsurf
+  - DOMAIN-SUFFIX,windsurf.com,AI
 
-# Lovable
-- DOMAIN-SUFFIX,lovable.dev,AI
+  # Bolt
+  - DOMAIN-SUFFIX,bolt.new,AI
 
-# Devin
-- DOMAIN-SUFFIX,cognition.ai,AI
+  # Lovable
+  - DOMAIN-SUFFIX,lovable.dev,AI
+
+  # Devin
+  - DOMAIN-SUFFIX,cognition.ai,AI
