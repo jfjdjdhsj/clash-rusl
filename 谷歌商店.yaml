@@ -1,8 +1,7 @@
 payload:
+  # Google Play 商店（下载相关）
   - DOMAIN-SUFFIX,play.google.com,谷歌商店
-  - DOMAIN-SUFFIX,play.googleusercontent.com,谷歌商店
-  - DOMAIN-SUFFIX,googleusercontent.com,谷歌商店
-  - DOMAIN-SUFFIX,gstatic.com,谷歌商店
-  - DOMAIN-SUFFIX,googleapis.com,谷歌商店
   - DOMAIN-KEYWORD,googleplay,谷歌商店
-  
+  - DOMAIN-SUFFIX,play.googleapis.com,谷歌商店
+  - DOMAIN-SUFFIX,android.clients.google.com,谷歌商店
+  - DOMAIN-SUFFIX,play-fe.googleapis.com,谷歌商店
