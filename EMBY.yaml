@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,emby,EMBY
   - IP-CIDR,193.122.114.13/32,EMBY
+  - DOMAIN-SUFFIX,yxemby.aabcc.dpdns.org,EMBY
   - DOMAIN-SUFFIX,tv.worldline.space,EMBY
   - DOMAIN-SUFFIX,cf.sfcj.org,EMBY
   - DOMAIN-SUFFIX,su.viclub.top,EMBY                         
